@@ -1,0 +1,12 @@
+[submodule "Openai-realtime-api/NodeJS"]
+	path = Openai-realtime-api/NodeJS
+	url = https://github.com/sanyamjain-plivo/plivo-realtime-integration.git
+[submodule "Openai-realtime-api/Python"]
+	path = Openai-realtime-api/Python
+	url = https://github.com/sanyamjain-plivo/plivo-realtime-integration-python.git
+[submodule "Openai-realtime-api/VoiceBot"]
+	path = Openai-realtime-api/VoiceBot
+	url = https://github.com/plivo/plivo-audiostream-integration-guides
+[submodule "Deepgram-openai-elevenlabs/VoiceBot"]
+	path = Deepgram-openai-elevenlabs/VoiceBot
+	url = https://github.com/plivo/plivo-audiostream-integration-guides
